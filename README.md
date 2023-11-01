@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Building API's for an ongoing project.<br>👯 I’m looking to collaborate on open-source Node.js projects.<br>🤝 I’m looking for help with front-end development for a project.<br>🌱 I’m currently learning Node.js, Express & MongoDB.<br>💬 Ask me about eloquent relationships.<br>⚡ Fun fact
+🔭 I’m currently working on Building API's for an ongoing project.<br>👯 I’m looking to collaborate on open-source Node.js projects.<br>🤝 I’m looking for help with front-end development for a project.<br>🌱 I’m currently learning Node.js, Express & MongoDB.<br>💬 Ask me about eloquent relationships.<br>⚡ Homer Simpson is the most downloaded sat-nav voice.
 
 
 ## 🌐 Socials:
