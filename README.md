@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SOFSV12
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently building a cms project with php and sql.
-- 💞️ I’m looking to collaborate on web development projects and solving problems.
+- 👀 I write code in PHP(HyperText Processor) $ JS (JavaScript).
+- 🌱 I’m currently building API's using Laravel 10 and MySQL.
+- 💞️ I’m currently learning Node.js, and trying to understand how no SQL databases work.
 - 📫 want to reach me, my email is emmanuelsofuwa2@gmail.com
 
 <!---
